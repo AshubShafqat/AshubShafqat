@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=220&section=header&text=Ashub%20Shafqat&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agentic%20AI%20%7C%20Cybersecurity&descAlignY=56&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=220&section=header&text=Ashub%20Shafqat&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agentic%20AI%20%7C%20Cybersecurity&descAlignY=56&descSize=18" width="100%" />
 
 <a href="https://github.com/AshubShafqat">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=900&lines=Software+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+Researcher;Agentic+AI+%C2%B7+Generative+AI+%C2%B7+Multi-Agent+Systems;Mozilla+Track+Winner+%C2%B7+Hack-Nation+Global+AI+Hackathon;Creator+of+AgroReef+%E2%80%94+AI+for+Pakistani+Farmers;Cybersecurity+%C2%B7+Research+%C2%B7+Open-Source;Building+AI+that+creates+real-world+impact" alt="Typing SVG" />
@@ -47,7 +47,7 @@ I am **Ashub Shafqat**, a Software Engineering graduate from the **University of
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 AI Engineer
+### 🤖 Software Engineer
 
 Agentic AI, Generative AI, RAG, multi-agent orchestration, LLM-powered applications, computer vision, voice AI, and intelligent decision-support systems.
 
@@ -118,7 +118,7 @@ class AshubShafqat:
 ### ✨ Highlights
 
 - 🌾 Creator of **AgroReef**, an agentic AI agricultural advisory platform for Pakistani farmers
-- 🥉 **Mozilla Track — 3rd Place**, Hack-Nation Global AI Hackathon
+- 🥉 **Mozilla Track — 3rd Place**, Hack-Nation 4 Global AI Hackathon
 - 🏆 National-level **Generative AI Hackathon Winner**
 - 📖 Selected as an **Associate Editor in Computer Science** at Synthica Journal
 - 🔬 Associate Researcher working on **Edge AI for medical signal analysis**
