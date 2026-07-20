@@ -326,29 +326,42 @@ Research focused on how model compression affects latency, noise robustness, and
 - 💡 Built solutions across agriculture, research, cybersecurity, industrial safety, and venture intelligence
 
 ---
-
 ## 📊 GitHub Analytics — Live
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshubShafqat&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5&text_color=C9D1D9" />
+<a href="https://github.com/AshubShafqat">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=AshubShafqat&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Ashub Shafqat GitHub statistics"
+  />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshubShafqat&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9" />
+<a href="https://github.com/AshubShafqat">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshubShafqat&layout=compact&theme=github_dark&hide_border=true"
+    alt="Ashub Shafqat most used languages"
+  />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AshubShafqat&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=8957E5&currStreakLabel=1F6FEB" />
+<img
+  src="https://streak-stats.demolab.com?user=AshubShafqat&theme=github-dark-blue&hide_border=true"
+  alt="Ashub Shafqat GitHub streak"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshubShafqat&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=1F6FEB&point=8957E5&area=true&hide_border=true" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AshubShafqat&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AshubShafqat&theme=github-compact&hide_border=true"
+  width="100%"
+  alt="Ashub Shafqat contribution graph"
+/>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
