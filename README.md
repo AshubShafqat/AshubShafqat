@@ -192,11 +192,11 @@ class AshubShafqat:
 <div align="center">
 
 <a href="https://github.com/AshubShafqat/AgroReef-FYP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshubShafqat&repo=AgroReef-FYP&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5" />
+  <img src="https://img.shields.io/badge/AgroReef-Agentic_AI_for_Agriculture-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="AgroReef Repository" />
 </a>
 
 <a href="https://github.com/AshubShafqat/MIT_HACKATHON">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshubShafqat&repo=MIT_HACKATHON&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5" />
+  <img src="https://img.shields.io/badge/Universal_Web_Agent-Mozilla_Track_Winner-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Universal Web Agent Repository" />
 </a>
 
 </div>
@@ -330,20 +330,12 @@ Research focused on how model compression affects latency, noise robustness, and
 
 <div align="center">
 
-<a href="https://github.com/AshubShafqat">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=AshubShafqat&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Ashub Shafqat GitHub statistics"
-  />
+<a href="https://github.com/AshubShafqat?tab=repositories">
+  <img src="https://img.shields.io/badge/Public_Repositories-Explore_My_Work-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Ashub Shafqat repositories" />
 </a>
 
 <a href="https://github.com/AshubShafqat">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshubShafqat&layout=compact&theme=github_dark&hide_border=true"
-    alt="Ashub Shafqat most used languages"
-  />
+  <img src="https://img.shields.io/badge/GitHub_Profile-Projects_%26_Contributions-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Ashub Shafqat GitHub profile" />
 </a>
 
 <br/><br/>
@@ -369,7 +361,7 @@ Research focused on how model compression affects latency, noise robustness, and
 <div align="center">
 
 <p>
-To activate this animation, add the GitHub Actions workflow shown below to your profile repository.
+This animation is generated automatically by the GitHub Actions workflow in this profile repository.
 </p>
 
 <picture>
@@ -414,7 +406,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: AshubShafqat
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -423,7 +415,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
-          branch: output
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
